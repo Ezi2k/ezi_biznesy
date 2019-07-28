@@ -16,7 +16,7 @@ There are five administravie commands such as:
 - /bizedit (business id) (name/owner/price/locker/interior/doors/state) (variabel)
 - /bizdelete (business id)
 - /bizinfo (debug command)
-- /bizreload
+- /bizreload (reloads all the business without reloading the script it self)
 
 ## Features
 - Business locker. (owner and co-workers can use open/close deposit and withdraw from the locker shuch items as: weapons/drugs ect.)
