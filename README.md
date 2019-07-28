@@ -29,13 +29,21 @@ There are five administravie commands such as:
 - /bizbuy (the player must stand in the business marker in order to work.)
 
 ## How to add new interiors?
-It's pretty simple, you've to add new possitions and ID in "config.lua"<br> f.ex ```lua { id = 1, coords = { x = -781.97, y = 326.31, z = 223.26 } },```
+It's pretty simple, you've to add new possitions and ID in "config.lua"<br> 
+f.ex
+```
+{ id = 1, coords = { x = -781.97, y = 326.31, z = 223.26 } }
+``` 
 ID means the Interior id you will enter while editing the business with /bizedit (bussiness id) (interior) (and then id from config.lua)
 <br>
 coords are the coords player will be teleported to.
 
 ## How to change language?
-It's really simple in "config.lua" you've line called ```lua Config.Locale = 'pl'``` change it from pl to en and there you go!
+It's really simple in "config.lua" you've line called 
+```
+lua Config.Locale = 'pl'
+``` 
+change it from pl to en and there you go!
 
 <br>
 **Command usage:
