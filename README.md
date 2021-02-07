@@ -3,6 +3,9 @@ ezi_biznesy był kiedyś skryptem napisanym dla serwera StrefaRP. Aczkolwiek kto
 ezi_biznesy był wzorowany na systemie biznesów tak naprawdę z jeszcze z czasów GTA SA:MP czy też na zagraniczynych serwera RageMP.
 Skrypt był pisany w 2019r i patrząc przez pryzmat czasu, napisał bym go trochę inaczej no ale, może komuś się przyda.
 
+**Podgląd skryptu:**<br>
+https://youtu.be/jto6FyyaTBc
+
 # Uwaga
 Skrypt nie jest dokończony w 100%. Owszem posiada podstawowe funkcje, które podkreślam "działały" w 2019r.
 Proszę nie pisać do mnie na pw w celu pomocy, ponieważ i tak jej nie udzielę.
