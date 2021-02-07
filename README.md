@@ -19,8 +19,8 @@ Mamy pięć komend administracyjnych wymagana permisja (```_dev```):
 - /bizinfo (debug) - Wyświetla dodatkowe informacje.
 - /bizreload (przeładowanie wszystkich biznesów z bazy danych)
 
-## Features
-- Szafka biznesowa. (właściciel i współpracownicy mogą skorzystać z depozytu otwierającego / zamykającego oraz wyjmować z szafki takie przedmioty jak: broń / narkotyki itp.)
+## Funkcje
+- Szafka biznesowa. (właściciel może skorzystać z depozytu otwierającego / zamykającego oraz wyjmować z szafki takie przedmioty jak: broń / narkotyki itp.)
 - Zamykanie drzwi (jeśli jesteś właścicielem firmy i naciśniesz **[L]** na klawiaturze, zablokujesz drzwi. Jeśli drzwi są zamknięte, nikt nie może wejść ani wyjść z Twojej firmy).
 - Wchodzenie do interiorów (jeśli Twoja firma ma przypisany interior, możesz po prostu nacisnąć **[E]**, jeśli drzwi są odblokowane, zostaniesz teleportowany do interiora jeżeli naciśniesz **[E]** raz jeszcze raz i zostaniesz wy teleportowany z interiora. Mówiąc w prost, aby wejść kliknij **[E]** aby wyjść kliknij **[E]**)
 
