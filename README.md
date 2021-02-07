@@ -33,7 +33,7 @@ np.
 ```lua
 { id = 1, coords = { x = -781.97, y = 326.31, z = 223.26 } }
 ``` 
-ID oznacza identyfikator wewnętrzny, który wprowadzisz podczas edycji firmy za pomocą 
+ID oznacza identyfikator wewnętrzny, który wprowadzisz podczas edycji firmy za pomocą <br>
 ``/bizedit (id biznesu) (interior) (a następnie ID z config.lua)``
 <br>
 X,Y,Z to współrzędne gracza, do którego zostanie teleportowany po kliknięciu **[E]** na markerze firmy.
