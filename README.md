@@ -7,7 +7,7 @@ Skrypt był pisany w 2019r i patrząc przez pryzmat czasu, napisał bym go troch
 Skrypt nie jest dokończony w 100%. Owszem posiada podstawowe funkcje, które podkreślam "działały" w 2019r.
 Proszę nie pisać do mnie na pw w celu pomocy, ponieważ i tak jej nie udzielę.
 
-# Terms and conditions
+# Regulamin użytkowania
 Regulamin użytkowania skryptu jest prosty, prośiłbym tylko o pozostawienie orginalnej nazwy oraz nie usunięcie moich komentarzy z skryptu. A reszte możecie edytować dowoli :) [licencja](https://github.com/Ezi2k/srp_businesses/blob/master/docs/LICENSE)
 
 # Jak działa skrypt?
