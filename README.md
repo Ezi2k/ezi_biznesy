@@ -3,9 +3,12 @@ ezi_biznesy był kiedyś skryptem napisanym dla serwera StrefaRP. Aczkolwiek kto
 ezi_biznesy był wzorowany na systemie biznesów tak naprawdę z jeszcze z czasów GTA SA:MP czy też na zagraniczynych serwera RageMP.
 Skrypt był pisany w 2019r i patrząc przez pryzmat czasu, napisał bym go trochę inaczej no ale, może komuś się przyda.
 
-**Uwaga:**
+# Uwaga
 Skrypt nie jest dokończony w 100%. Owszem posiada podstawowe funkcje, które podkreślam "działały" w 2019r.
 Proszę nie pisać do mnie na pw w celu pomocy, ponieważ i tak jej nie udzielę.
+
+**PS**<br>
+W kodzie widnieją elementy/nazwy związane z strefą. Jest to logiczne ponieważ głównem moim zadaniem było zrobienie skrypty dla strefy. Jest tam wykożystany system notyfikacji z strefy, zmiencie funkcje na taką którą używacie na waszym serwerze i wszysto powinno śmigać. 
 
 # Regulamin użytkowania
 Regulamin użytkowania skryptu jest prosty, prośiłbym tylko o pozostawienie orginalnej nazwy oraz nie usunięcie moich komentarzy z skryptu. A reszte możecie edytować dowoli :) [licencja](https://github.com/Ezi2k/srp_businesses/blob/master/docs/LICENSE)
